@@ -1,6 +1,6 @@
 /* GET home page */
 const homelist = (req, res) => {
-  res.render('locations-list', { title: 'Home' });
+  res.render('locations-list', { title: 'ChronoLink' });
 };
 
 /* GET location info page */
